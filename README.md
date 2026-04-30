@@ -6,7 +6,7 @@ I’m a Computer Science student at Universiti Malaya with a passion for buildin
 
 ---
 
-### 🚀 What I’m working on
+### Projects
 - 📱 **Mobile Ecosystems:** Crafting cross-platform experiences using **React Native (Expo)** and **Flutter**.
 - 🤖 **Applied AI:** Integrating **Gemini API** and **Google Cloud Vision** to make apps smarter.
 - 🏗️ **Systems Design:** Designing scalable databases (Oracle APEX, Firebase) and robust software architectures.
