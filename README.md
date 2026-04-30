@@ -1,96 +1,22 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-04-30T13:33:48.342Z",
-  "profile": {
-    "title": "Fahim Fadzil",
-    "subtitle": "Software Engineer",
-    "currentWork": "My own Portfolio Website",
-    "currentLearn": "AWS & DevOps",
-    "collaborateOn": "",
-    "helpWith": "",
-    "ama": "",
-    "contact": "fahimfadzil9@gmail.com",
-    "funFact": "",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "fahimisnthere",
-    "dev": "",
-    "linkedin": "fahimfdzl",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "fahimfdzl",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "android",
-    "cplusplus",
-    "firebase",
-    "java",
-    "javascript",
-    "mongodb",
-    "nodejs",
-    "oracle",
-    "react",
-    "reactnative"
-  ]
-}
+<h1 align="center">Hello World! Fahim here</h1>
+<h3 align="center">Software Engineering Students</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimisnthere&label=Profile%20views&color=0e75b6&style=flat" alt="fahimisnthere" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimisnthere" alt="fahimisnthere" /></a> </p>
+
+- 🔭 I’m currently working on **My Portfolio Website**
+
+- 📫 How to reach me **fahimfadzil9@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fahimfdzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimfdzl" height="30" width="40" /></a>
+<a href="https://instagram.com/fahimfdzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimfdzl" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/18500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="18500" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimisnthere&" alt="fahimisnthere" /></p>
