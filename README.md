@@ -20,24 +20,15 @@ I’m a Computer Science student at Universiti Malaya with a passion for buildin
 | :--- | :--- |
 | **Mobile** | React Native, Flutter, Android (Java) |
 | **Backend & DB** | Firebase, Oracle SQL, Node.js |
-| **AI & Cloud** | Gemini API, Google Cloud Vision, Vertex AI |
 | **Design & Tools** | Figma, UML, Git, Agile Methodology |
-
----
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimfdzl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfdzl&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Let's Connect
 I’m always open to collaborating on innovative mobile projects or discussing the latest in AI.
 
-- 📧 **Email:** [Your Email Here]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 📧 **Email:** fahimfadzil9@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/fahimfdzl
 - 📍 **Based in:** Kuala Lumpur, Malaysia
 
 ---
-
-*"Turning complex logic into elegant, user-centric mobile solutions."*
