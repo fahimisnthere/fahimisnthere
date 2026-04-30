@@ -1,34 +1,96 @@
-# Hi there, I'm Fahim! 👋
-
-**Software Engineering Student | Mobile Developer | AI Enthusiast**
-
-I’m a Computer Science student at Universiti Malaya with a passion for building functional, high-impact mobile applications. I thrive at the intersection of clean architecture and intelligent automation.
-
----
-
-### Projects
-- 📱 **Mobile Ecosystems:** Crafting cross-platform experiences using **React Native (Expo)** and **Flutter**.
-- 🤖 **Applied AI:** Integrating **Gemini API** and **Google Cloud Vision** to make apps smarter.
-- 🏗️ **Systems Design:** Designing scalable databases (Oracle APEX, Firebase) and robust software architectures.
-- 🅿️ **Current Project:** Building a Smart Parking Finder system focusing on seamless UX and real-time data.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Mobile** | React Native, Flutter, Android (Java) |
-| **Backend & DB** | Firebase, Oracle SQL, Node.js |
-| **Design & Tools** | Figma, UML, Git, Agile Methodology |
-
----
-
-### 🤝 Let's Connect
-I’m always open to collaborating on innovative mobile projects or discussing the latest in AI.
-
-- 📧 **Email:** fahimfadzil9@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/fahimfdzl
-- 📍 **Based in:** Kuala Lumpur, Malaysia
-
----
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-04-30T13:33:48.342Z",
+  "profile": {
+    "title": "Fahim Fadzil",
+    "subtitle": "Software Engineer",
+    "currentWork": "My own Portfolio Website",
+    "currentLearn": "AWS & DevOps",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "fahimfadzil9@gmail.com",
+    "funFact": "",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "fahimisnthere",
+    "dev": "",
+    "linkedin": "fahimfdzl",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "fahimfdzl",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "android",
+    "cplusplus",
+    "firebase",
+    "java",
+    "javascript",
+    "mongodb",
+    "nodejs",
+    "oracle",
+    "react",
+    "reactnative"
+  ]
+}
